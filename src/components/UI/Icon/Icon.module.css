@@ -1,0 +1,14 @@
+.Icon {
+    position: fixed;
+    top: 40px;
+    right: 40px;
+    font-size: 30px;
+    cursor: pointer;
+    color: #fff;
+    transition: opacity, left .22s ease-in;
+    z-index: 100;
+}
+
+.Icon:hover {
+    opacity: .7;
+}

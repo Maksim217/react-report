@@ -1,0 +1,44 @@
+{
+  "name": "react-bootstrap-table2-clear-search-bar-and-filter",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "bootstrap": "4.3.1",
+    "connected-react-router": "^6.8.0",
+    "react": "16.8.6",
+    "react-bootstrap": "1.0.0-beta.12",
+    "react-bootstrap-table": "^4.3.1",
+    "react-bootstrap-table-next": "3.1.8",
+    "react-bootstrap-table2-editor": "^1.4.0",
+    "react-bootstrap-table2-filter": "1.1.11",
+    "react-bootstrap-table2-paginator": "^2.1.2",
+    "react-bootstrap-table2-toolkit": "2.0.1",
+    "react-dom": "16.8.6",
+    "react-redux": "^7.2.0",
+    "react-router-dom": "^5.2.0",
+    "react-router-redux": "^4.0.8",
+    "react-scripts": "^3.4.1",
+    "react-tabs": "^3.1.0",
+    "redux": "^4.0.5",
+    "redux-form": "^8.3.6",
+    "redux-thunk": "^2.3.0"
+  },
+  "devDependencies": {
+    "typescript": "3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
